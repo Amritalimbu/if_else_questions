@@ -2,8 +2,8 @@ a=5
 b=9
 c=3
 if a>b and b>c:
-    print(a)
+    print("largest number =",a)
 elif a<b and b>c:
-    print(b)
+    print("largest number =",b)
 else:
-    print(c)
+    print("largest number",c)
